@@ -1,1 +1,1 @@
-# lib-template
+# lib-react-template
